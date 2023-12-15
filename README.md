@@ -8,7 +8,7 @@
 
 💡 I'm interested in Flutter for developing dynamics application and api integration.
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/pankaj-ram-ab85ba271/">Visit My Linkedin Profile </a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/pankaj-ram-ab85ba271/">Linkedin Profile </a>
 
 ⚡ Fun fact: [share an interesting tidbit about yourself or your work].
 
