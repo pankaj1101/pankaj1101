@@ -32,6 +32,3 @@ I'm passionate about staying updated with the latest trends and technologies in 
 ⚡ Fun fact: I Like To fix errors in code. 
 
 🔗 Check out my work below and feel free to connect!
-
-
-Let's connect and collaborate on exciting projects!
