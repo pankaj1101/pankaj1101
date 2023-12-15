@@ -29,7 +29,7 @@ I'm passionate about staying updated with the latest trends and technologies in 
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/pankaj-ram-ab85ba271/">Linkedin Profile </a>
 
-⚡ Fun fact: [share an interesting tidbit about yourself or your work].
+⚡ Fun fact: I Like To fix errors in code. 
 
 🔗 Check out my work below and feel free to connect!
 
