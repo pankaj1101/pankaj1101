@@ -27,7 +27,7 @@ I'm passionate about staying updated with the latest trends and technologies in 
 - Familiarity with RESTful APIs and JSON data handling
 - Basic understanding of backend technologies for app integration
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/pankaj-ram-ab85ba271/">Linkedin Profile </a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/pankaj-ram-ab85ba271/">Linkedin</a>
 
 ⚡ Fun fact: I Like To fix errors in code. 
 
