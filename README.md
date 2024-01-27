@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pankaj Ram</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h1>Hi 👋, I'm Pankaj Ram</h1>
+<h3>A passionate Flutter developer from India</h3>
+
 
 👨‍💻 Currently, I'm working on RentAll App.
 
