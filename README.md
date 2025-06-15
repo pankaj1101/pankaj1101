@@ -1,34 +1,50 @@
-<h1>Hi 👋, I'm Pankaj Ram</h1>
-<h3>A passionate Flutter developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pankaj Ram</h1>
+<h3 align="center">A passionate Flutter developer from India 🇮🇳</h3>
 
+---
 
-👨‍💻 Currently, I'm working on RentAll App.
+👨‍💻 **Currently working on:** Opinion: Poll and Vote – an interactive platform for creating and participating in polls.
+
+---
 
 ## 🌱 Currently Learning
 
-I'm passionate about staying updated with the latest trends and technologies in the Flutter ecosystem. Here are some areas I'm currently diving into:
-- Exploring advanced state management techniques in Flutter
-- Learning to optimize app performance for smoother user experiences
-- Experimenting with new UI/UX design patterns
-- Improving my knowledge of backend integration with Firebase or other services
+I’m passionate about staying up to date with the latest in Flutter development. Currently diving into:
+- Advanced state management techniques (e.g., Bloc, Riverpod)
+- Performance optimization for seamless app experiences
+- Modern UI/UX design patterns and responsive layouts
+- Deeper backend integrations using Firebase and RESTful APIs
+
+---
 
 ## 💼 Skills
 
-### Flutter and Dart
-- Proficient in building cross-platform mobile applications using Flutter
-- Strong knowledge of Dart programming language
-- Experience with state management solutions like Getx and Provider
-- UI/UX design and implementation using Flutter widgets and custom designs
-- Integrating Firebase for authentication, database, and cloud services
+### 🛠 Flutter & Dart
+- Cross-platform app development with Flutter for Android & iOS
+- Strong foundation in Dart and clean architecture practices
+- Experience with **GetX**, **Provider**, and **Riverpod** for state management
+- Firebase integration: Auth, Firestore, Cloud Functions, Messaging
+- Implemented **Push Notifications** using Firebase Cloud Messaging (FCM)
+- Built custom UI components and responsive designs
 
-### Development Tools
-- Version control with Git and GitHub
-- IDEs: Android Studio, Visual Studio Code
-- Familiarity with RESTful APIs and JSON data handling
-- Basic understanding of backend technologies for app integration
+### ⚙️ Development Tools & Best Practices
+- CI/CD automation using **GitHub Actions** and custom workflows
+- Proficient with Flutter **DevTools** for debugging and performance profiling
+- REST API integration and efficient JSON parsing
+- Writing clean, testable code with **Unit Testing** practices
+- Git & GitHub for version control and collaboration
+- IDEs: Android Studio | Visual Studio Code
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/pankaj-ram-ab85ba271/">Linkedin</a>
+---
 
-⚡ Fun fact: I Like To fix errors in code. 
+## 📫 Connect with Me
 
-🔗 Check out my work below and feel free to connect!
+- 💼 [LinkedIn – Pankaj Ram](https://www.linkedin.com/in/pankaj-ram-ab85ba271/)
+
+---
+
+⚡ **Fun Fact:** I actually *enjoy* fixing bugs – it feels like solving puzzles in code!
+
+---
+
+🔗 Check out my projects below – happy to connect, collaborate, or just chat Flutter!
