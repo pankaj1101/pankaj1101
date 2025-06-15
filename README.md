@@ -18,6 +18,18 @@ An interactive polling platform to create, share, and vote on real-time opinions
 
 ---
 
+## 💼 Open for Freelance Work
+Looking to collaborate on exciting mobile projects?  
+📲 **Let’s work together!** I'm open to freelance opportunities in:
+- Mobile app development (Flutter)
+- Firebase-based backend integrations
+- UI/UX implementation & redesigns
+- App optimization and debugging
+
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/pankaj-ram-ab85ba271/) — let's build something great!
+
+---
+
 ## 🌱 Currently Exploring
 - 🔁 Advanced State Management with **Riverpod** & **Bloc**
 - ⚡ App performance tuning and lazy loading
