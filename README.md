@@ -50,15 +50,6 @@ An interactive polling platform to create, share, and vote on real-time opinions
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajram&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajram&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
